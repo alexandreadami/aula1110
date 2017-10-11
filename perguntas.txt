@@ -2,3 +2,4 @@ nome:
 data nascimento:
 cpf:
 rg:
+sexo:

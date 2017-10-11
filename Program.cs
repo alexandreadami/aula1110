@@ -7,9 +7,12 @@ namespace aula1110
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("\nPERGUNTAS E RESPOSTAS\n");
             string[] perguntas = File.ReadAllLines(@"C:\Users\FIC\Documents\aula1110\perguntas.txt");
             string[] respostas = new string[perguntas.Length];
+
+
 
             for(int i = 0; i<perguntas.Length; i++){
                 Console.Write("Qual " + perguntas[i] + " ");
@@ -22,8 +25,9 @@ namespace aula1110
                 salvaRespostas.Write(respostas[i] + ";");
                 
             }
+            salvaRespostas.WriteLine("");
             salvaRespostas.Close();
-
+            
 
         }
     }
