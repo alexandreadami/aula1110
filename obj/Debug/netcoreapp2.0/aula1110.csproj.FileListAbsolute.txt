@@ -1,0 +1,10 @@
+c:\Users\FIC\Documents\aula1110\obj\Debug\netcoreapp2.0\aula1110.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Documents\aula1110\obj\Debug\netcoreapp2.0\aula1110.AssemblyInfoInputs.cache
+c:\Users\FIC\Documents\aula1110\obj\Debug\netcoreapp2.0\aula1110.AssemblyInfo.cs
+C:\Users\FIC\Documents\aula1110\bin\Debug\netcoreapp2.0\aula1110.deps.json
+C:\Users\FIC\Documents\aula1110\bin\Debug\netcoreapp2.0\aula1110.runtimeconfig.json
+C:\Users\FIC\Documents\aula1110\bin\Debug\netcoreapp2.0\aula1110.runtimeconfig.dev.json
+C:\Users\FIC\Documents\aula1110\bin\Debug\netcoreapp2.0\aula1110.dll
+C:\Users\FIC\Documents\aula1110\bin\Debug\netcoreapp2.0\aula1110.pdb
+C:\Users\FIC\Documents\aula1110\obj\Debug\netcoreapp2.0\aula1110.dll
+C:\Users\FIC\Documents\aula1110\obj\Debug\netcoreapp2.0\aula1110.pdb
